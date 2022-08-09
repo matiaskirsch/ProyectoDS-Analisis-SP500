@@ -37,13 +37,6 @@ Se dejan aqui unos calculos financieros que pueden servir de ayuda:<br>
 
 - volatilidad = activos.variaciones.rolling(250).std()*100*(250)**0.5 (en este caso se puede utilizar el indice VIX)<br>
 
-Se dejan aqui unos ejemplos para la parte grafica:<br>
-
-![img1](C:\Users\maty_\Desktop\HenryDS\LABS\DS-PI-ProyectoIndividual2\DS-PI-ProyectoIndividual\PI_02\1655704802024.png)
-![img2](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655704803889.png)
-![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655704805872.png)
-![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655971323111.png)
-
 
 
 Es necesario que determinen de manera grafica dichos indicadores.<br>
